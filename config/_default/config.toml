@@ -1,6 +1,8 @@
-baseURL = "https://i11u.github.io/"
+baseURL = "https://i11u.github.io/mywebsite/"
 title = "Hugo Zzo Theme"
+publishurls="docs"
 theme = "zzo"
+canonifyurls=true
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
