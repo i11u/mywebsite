@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "https://i11u.github.io/mywebsite"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
