@@ -1,6 +1,6 @@
 baseURL = "https://i11u.github.io/mywebsite/"
 title = "Hugo Zzo Theme"
-publishurls="docs"
+publishDir="docs"
 theme = "zzo"
 canonifyurls=true
 
